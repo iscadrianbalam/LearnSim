@@ -1,5 +1,5 @@
-# SimPy para simular eventos discretos con Python
-## Elaborado por: ISC. Luis Adrian Balam Espadas
+# LearnSim: Ejercicios didácticos de simulación
+### Autor: ISC. Luis Adrian Balam Espadas
 
 ![Modelo de la cafetería](img/modelo.jpg)
 
@@ -8,7 +8,7 @@
 
 La simulación es el cómo conocemos el comportamiento de algo sobre un contexto, sin alterar el sistema real ni invertir dinero o tiempo. Nos permite saber que tan factible es una decisión operativa de forma previa.
 
-# Cómo empiezo?
+# Primeros pasos
 
 ## Instala Python desde [https://www.python.org]
 
@@ -28,7 +28,6 @@ Puedes usar _git clone_ + _Url del repo_ en terminal para descargar los archivos
 
 ## Experimenta con el código
 
-Aplica los conceptos adquiridos en clase para conocer como una simulación puede efectuarse con programación.
+Los algoritmos están divididos por temas con relación al tópico de _Simulación_. Desde los _Fundamentos_ hasta temas más específicos, podrás encontrar ejemplos aplicados con ayuda de la programación.
 
 ### Muchas gracias por puntuar mi repo y seguir mi perfil. A codear!
-### Atte.: ISC. Luis Adrian Balam Espadas
